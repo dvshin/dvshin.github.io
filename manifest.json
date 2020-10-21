@@ -1,11 +1,11 @@
 {
-    "name": "gitHubPage",
-    "short_name": "gitHubPage",
+    "name": "webOrder",
+    "short_name": "webOrder",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "eRes online self order",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
