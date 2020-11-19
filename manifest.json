@@ -1,11 +1,11 @@
 {
-    "name": "webOrder",
-    "short_name": "webOrder",
+    "name": "logoTest",
+    "short_name": "logoTest",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "eRes online self order",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
